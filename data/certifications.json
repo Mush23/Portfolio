@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Generative AI Mastermind",
+    "issuer": "Outskill",
+    "logo": "assets/logos/outskill.png",
+    "date": "May 2025",
+    "link": "assets/certificates/Outskill - Generative AI Mastermind.png"
+  },
+  {
+    "title": "Certified Scrum Product Owner (CSPO)",
+    "issuer": "Scrum Alliance",
+    "logo": "assets/logos/scrumalliance.png",
+    "date": "Apr 2025",
+    "link": "assets/certificates/CSPO Certificate.jpg"
+  },
+  {
+    "title": "Google Project Management: Specialization",
+    "issuer": "Google",
+    "logo": "assets/logos/google.png",
+    "date": "Mar 2025",
+    "link": "assets/certificates/Google Project Management Specialization Certification.pdf"
+  },
+  {
+    "title": "Agile Project Management",
+    "issuer": "Google",
+    "logo": "assets/logos/google.png",
+    "date": "Mar 2025",
+    "link": "assets/certificates/Agile Project Management.pdf"
+  },
+  {
+    "title": "Project Execution: Running the Project",
+    "issuer": "Google",
+    "logo": "assets/logos/google.png",
+    "date": "Mar 2025",
+    "link": "assets/certificates/Project Execution - Running the Project.pdf"
+  },
+  {
+    "title": "Project Initiation: Starting a Successful Project",
+    "issuer": "Google",
+    "logo": "assets/logos/google.png",
+    "date": "Mar 2025",
+    "link": "assets/certificates/Project Initiation - Starting a Successful Project.pdf"
+  },
+  {
+    "title": "Project Planning: Putting It All Together",
+    "issuer": "Google",
+    "logo": "assets/logos/google.png",
+    "date": "Mar 2025",
+    "link": "assets/certificates/Project Planning - Putting It All Together.pdf"
+  },
+  {
+    "title": "Capstone: Applying Project Management in the Real World",
+    "issuer": "Google",
+    "logo": "assets/logos/google.png",
+    "date": "Mar 2025",
+    "link": "assets/certificates/Capstone - Applying Project Management in the Real World.pdf"
+  },
+  {
+    "title": "Foundations of Project Management",
+    "issuer": "Google",
+    "logo": "assets/logos/google.png",
+    "date": "Mar 2025",
+    "link": "assets/certificates/Foundations of Project Management.pdf"
+  },
+  {
+    "title": "Advanced Google Analytics",
+    "issuer": "LinkedIn",
+    "logo": "assets/logos/linkedin.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_Advanced Google Analytics.pdf"
+  },
+  {
+    "title": "Advanced Google Analytics 4 (GA4)",
+    "issuer": "LinkedIn",
+    "logo": "assets/logos/linkedin.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_Advanced Google Analytics 4 GA4.pdf"
+  },
+  {
+    "title": "Google Analytics 4 (GA4) Essential Training",
+    "issuer": "LinkedIn",
+    "logo": "assets/logos/linkedin.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_Google Analytics 4 GA4 Essential Training.pdf"
+  },
+  {
+    "title": "Career Essentials in Data Analysis",
+    "issuer": "Microsoft",
+    "logo": "assets/logos/microsoft.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_Career Essentials in Data Analysis by Microsoft and LinkedIn.pdf"
+  },
+  {
+    "title": "Excel Essential Training (Microsoft 365)",
+    "issuer": "LinkedIn",
+    "logo": "assets/logos/linkedin.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_Excel Essential Training Microsoft 365.pdf"
+  },
+  {
+    "title": "Python Data Analysis",
+    "issuer": "LinkedIn",
+    "logo": "assets/logos/linkedin.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_Python Data Analysis.pdf"
+  },
+  {
+    "title": "SQL Essential Training",
+    "issuer": "LinkedIn",
+    "logo": "assets/logos/linkedin.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_SQL Essential Training.pdf"
+  },
+  {
+    "title": "Tableau Essential Training",
+    "issuer": "LinkedIn",
+    "logo": "assets/logos/linkedin.png",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_Tableau Essential Training.pdf"
+  },
+  {
+    "title": "SQL - MySQL for Data Analytics and Business Intelligence",
+    "issuer": "Udemy",
+    "logo": "assets/logos/udemy.svg",
+    "date": "Oct 2023",
+    "link": "assets/certificates/CertificateOfCompletion_SQL MySQL for Data Analytics and BI.pdf"
+  },
+  {
+    "title": "The Data Science Course: Complete Data Science Bootcamp",
+    "issuer": "Udemy",
+    "logo": "assets/logos/udemy.svg",
+    "date": "Oct 2023",
+    "link": "assets/certificates/Udemy The Data Science Course.pdf"
+  },
+  {
+    "title": "Sales and CRM Overview",
+    "issuer": "Salesforce",
+    "logo": "assets/logos/salesforce.svg",
+    "date": "Feb 2022",
+    "link": "assets/certificates/Sales and CRM Overview.pdf"
+  }
+]

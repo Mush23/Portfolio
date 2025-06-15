@@ -1,0 +1,84 @@
+[
+    {
+      "role": "Product Owner",
+      "company": "Triangl3 Solutions",
+      "startDate": "Sep 2023",
+      "endDate": "Present",
+      "description": [
+        "Owned multiple technical projects, translating stakeholder requirements into user stories and prioritised backlogs to drive delivery.",
+        "Led Agile ceremonies (stand-ups, retrospectives, sprint planning), boosting cross-team collaboration and improving delivery cadence.",
+        "Defined product roadmaps with clients, aligning deliverables to business goals and user feedback for continuous iteration.",
+        "Developed and integrated CRM solutions (Salesforce, HubSpot), driving a 15% increase in retention across key accounts.",
+        "Created custom software solutions, cutting operational costs by 15% for healthcare and ecommerce sectors.",
+        "Optimised API integrations and data pipelines, enabling seamless connectivity across analytics, CRM, and advertising platforms.",
+        "Created client-facing reports and executive presentations, translating technical details and project outcomes into strategic narratives.",
+        "Coordinated Agile workflows and stakeholder meetings to support strategic decision-making."
+      ]
+    },
+    {
+      "role": "Product Analyst",
+      "company": "SureCloud",
+      "startDate": "Jan 2022",
+      "endDate": "Sep 2023",
+      "description": [
+        "Performed comprehensive business requirement analysis to deliver tailored GRC and CRM solutions, improving client satisfaction by 20%.",
+        "Collaborated with Product Managers to define MVP features and support Agile sprints.",
+        "Conducted user research and stakeholder interviews to shape product enhancements.",
+        "Delivered insights from analytics and data science to support strategic decisions.",
+        "Designed and implemented dashboards (Python, JavaScript, SQL), increasing sales and investment by 20%.",
+        "Improved data integration strategies and reduced redundancy by 30%.",
+        "Managed QA & UAT testing phases, reducing defects by 30%.",
+        "Mentored analysts and standardised best practices in data governance.",
+        "Aligned cross-functional teams to ensure timely delivery of key initiatives."
+      ]
+    },
+    {
+      "role": "Sales Consultant",
+      "company": "Travelex",
+      "startDate": "Mar 2019",
+      "endDate": "Aug 2020",
+      "description": [
+        "Leveraged CRM tools and market analysis to increase sales by 20%.",
+        "Optimised CRM processes to enhance customer experience, reducing wait times by 25%.",
+        "Consistently exceeded KPIs in a high-traffic environment.",
+        "Managed online transactions and daily cash reconciliations to ensure compliance."
+      ]
+    },
+    {
+      "role": "Host/Waiter",
+      "company": "Tamara Lounge",
+      "startDate": "May 2018",
+      "endDate": "Aug 2018",
+      "description": [
+        "Provided excellent customer service in a high-paced hospitality environment.",
+        "Multitasked efficiently while maintaining professionalism and energy.",
+        "Managed, trained, and monitored staff when needed to optimise standards and sales.",
+        "Exceeded daily targets through exceptional product knowledge and enthusiasm."
+      ]
+    },
+    {
+      "role": "Security Steward",
+      "company": "Arsenal F.C",
+      "startDate": "Aug 2016",
+      "endDate": "May 2017",
+      "description": [
+        "Ensured safety and security of fans while enhancing the match-day experience.",
+        "Mediated conflicts using NVQ-trained communication and conflict resolution skills.",
+        "Monitored crowd behaviour, preventing incidents proactively.",
+        "Followed all safety protocols and incident escalation procedures."
+      ]
+    },
+    {
+      "role": "Assistant to the Financial Director",
+      "company": "Chhaya Hare Wilson Ltd",
+      "startDate": "Jul 2014",
+      "endDate": "Sep 2014",
+      "description": [
+        "Learned payroll systems and improved process efficiency through creativity.",
+        "Organised and filed correspondence in chronological order.",
+        "Built financial reports and profit/loss sheets using Excel formulas.",
+        "Shadowed chartered accountants and assisted with client accounts."
+      ]
+    }
+  ]
+  

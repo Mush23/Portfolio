@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NexApply",
+    "description": "An AI-powered job automation platform that streamlines the application process using resume parsing, role matching, and OpenAI-powered cover letter generation. Includes smart dashboards, inbox scanning, and job tracking.",
+    "techStack": ["Next.js", "TailwindCSS", "Firebase", "OpenAI API", "Whisper API", "Vercel"],
+    "link": "https://nexapply.vercel.app"
+  },
+  {
+    "name": "KlypAI",
+    "description": "A gaming content intelligence tool that automatically identifies highlight-worthy moments from livestreams and turns them into shareable video clips. Designed for creators on Twitch and YouTube.",
+    "techStack": ["Python", "FFmpeg", "Whisper API", "OpenAI", "Firebase", "React"],
+    "link": "#"
+  },
+  {
+    "name": "Portfolio Website (maharshipatel.co.uk)",
+    "description": "A responsive, JSON-driven portfolio hosted on GitHub Pages and connected to a custom Namecheap domain. Supports theme toggle, dynamic section rendering, and downloadable resume.",
+    "techStack": ["HTML", "CSS", "JavaScript", "JSON", "GitHub Pages"],
+    "link": "https://maharshipatel.co.uk"
+  },
+  {
+    "name": "Numerical Solver – Runge-Kutta ODE Integration",
+    "description": "Developed a Python-based numerical solver using the Runge-Kutta method to approximate solutions to ordinary differential equations (ODEs). Designed for use in academic simulations and real-time plotting.",
+    "techStack": ["Python", "NumPy", "Matplotlib"],
+    "link": "#"
+  }
+]
