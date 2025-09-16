@@ -1,18 +1,18 @@
 [
     {
       "role": "Product Owner",
-      "company": "Triangl3 Solutions",
+      "company": "Iconic Smiles",
       "startDate": "Sep 2023",
       "endDate": "Present",
       "description": [
-        "Owned multiple technical projects, translating stakeholder requirements into user stories and prioritised backlogs to drive delivery.",
-        "Led Agile ceremonies (stand-ups, retrospectives, sprint planning), boosting cross-team collaboration and improving delivery cadence.",
-        "Defined product roadmaps with clients, aligning deliverables to business goals and user feedback for continuous iteration.",
-        "Developed and integrated CRM solutions (Salesforce, HubSpot), driving a 15% increase in retention across key accounts.",
-        "Created custom software solutions, cutting operational costs by 15% for healthcare and ecommerce sectors.",
-        "Optimised API integrations and data pipelines, enabling seamless connectivity across analytics, CRM, and advertising platforms.",
-        "Created client-facing reports and executive presentations, translating technical details and project outcomes into strategic narratives.",
-        "Coordinated Agile workflows and stakeholder meetings to support strategic decision-making."
+        "Developed and implemented a platform to streamline operations, improving scheduling, resource management, and client booking visibility while reducing manual workload by 25%.",
+        "Analysed client data and behaviour patterns to produce insights that supported marketing and sales teams in targeting campaigns and boosting engagement. ",
+        "Collaborated with offshore development teams and local stakeholders to ensure technical solutions were aligned with business needs and timelines. ",
+        "Translated requirements into Product Requirement Documents (PRDs) and user stories, maintaining a prioritised backlog to guide development.",
+        "Facilitated Agile ceremonies (sprint planning, reviews, retrospectives), helping embed more structured delivery processes across the company. ",
+        "Applied MoSCoW prioritisation to manage feature delivery and balance business demands with available resources.",
+        "Used the Eisenhower Matrix to help stakeholders distinguish between urgent issues and strategically important initiatives.",
+        "Acted as a bridge between technical and non-technical teams, ensuring smooth communication and alignment across functions and time zones."
       ]
     },
     {
@@ -21,15 +21,13 @@
       "startDate": "Jan 2022",
       "endDate": "Sep 2023",
       "description": [
-        "Performed comprehensive business requirement analysis to deliver tailored GRC and CRM solutions, improving client satisfaction by 20%.",
-        "Collaborated with Product Managers to define MVP features and support Agile sprints.",
-        "Conducted user research and stakeholder interviews to shape product enhancements.",
-        "Delivered insights from analytics and data science to support strategic decisions.",
-        "Designed and implemented dashboards (Python, JavaScript, SQL), increasing sales and investment by 20%.",
-        "Improved data integration strategies and reduced redundancy by 30%.",
-        "Managed QA & UAT testing phases, reducing defects by 30%.",
-        "Mentored analysts and standardised best practices in data governance.",
-        "Aligned cross-functional teams to ensure timely delivery of key initiatives."
+        "Supported Product Managers on GRC/CRM initiatives by contributing to Product Requirement Documents (PRDs), epics, and user stories. ",
+        "Gathered and translated stakeholder requirements via interviews and working sessions, ensuring development clarity. ",
+        "Built Power BI dashboards for pipeline and usage tracking, enabling data-driven decisions and supporting a ~7% uplift in sales conversion. ",
+        "Coordinated UAT and QA activities, triaging issues with QA leads and developers, contributing to a ~18% reduction in post-release defects. ",
+        "Facilitated Agile rituals (stand-ups, backlog refinement, sprint retrospectives) by preparing boards, documenting actions, and ensuring visibility on status and blockers.",
+        "Applied MoSCoW prioritisation to balance quick wins with longer-term roadmap items; supported stakeholder trade-offs using the Eisenhower Matrix.",
+        "Collaborated with Compliance on data privacy and permission requirements for enterprise customers. "
       ]
     },
     {
@@ -81,4 +79,5 @@
       ]
     }
   ]
+
   
